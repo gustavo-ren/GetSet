@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1511497812 source:c:\users\gustavo\documents\codeblocksprojects\getset\main.cpp
+	<iostream>
+	"Car.h"
+
+1511498187 c:\users\gustavo\documents\codeblocksprojects\getset\include\car.h
+	<iostream>
+
