@@ -16,4 +16,5 @@ int main()
     m = car.show();
 
     cout << m << endl;
+    cout <<car.getModel() <<endl;
 }

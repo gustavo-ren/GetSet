@@ -19,3 +19,7 @@ string Car :: show(){
 void Car::setColor(string c){color = c;}
 void Car::setModel(string m){model = m;}
 void Car::setBrand(string b){brand = b;}
+
+string Car::getBrand(){return brand;}
+string Car::getColor(){return color;}
+string Car::getModel(){return model;}

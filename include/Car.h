@@ -14,6 +14,10 @@ class Car
         void setColor(string c);
         void setBrand(string b);
 
+        string getModel();
+        string getBrand();
+        string getColor();
+
     protected:
 
     private:
